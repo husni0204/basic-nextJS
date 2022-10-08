@@ -1,4 +1,8 @@
-html,
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* html,
 body {
   padding: 0;
   margin: 0;
@@ -25,4 +29,4 @@ a {
 .title-not-found {
   color: darkgray;
   text-align: center;
-}
+} */

@@ -14,7 +14,7 @@ const Layout = (props: LayoutProps) => {
     return (
         <>
             <Head>
-                <title>NextJS Basic | {''} {pageTitle}</title>
+                <title>{`REMIRA STUDIO | ${pageTitle}`}</title>
                 <meta name="description" content="Website NextJS Basic" />
             </Head>
             <div className={styles.container}>
